@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shruthi2024
+- 👋 Hi, I’m Shruthi
 - 👀 I’m interested in  programming language such as Python & automation frameworks such as Selenium WebDriver
 - 🌱 I’m currently learning  Appium, Protractor & Robot Framework
 - 💞️ I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
