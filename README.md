@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
 - 📫 How to reach me - smshruthi06@gmail.com , https://www.linkedin.com/in/shruthi-shikaripur-giddappa-877b5480/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Japanese language enthusiast 
+- ⚡ Fun fact: Japanese language enthusiast
+
+************************************************ Where exuberance meets abundance, magic happens************************************************
 
 <!---
 shruthi2024/shruthi2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
