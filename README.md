@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Japanese language enthusiast
 
-************************************************ Where exuberance meets abundance, magic happens************************************************
+********************** Where exuberance meets abundance, magic happens*********************
 
 <!---
 shruthi2024/shruthi2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
