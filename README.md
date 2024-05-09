@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
 - 📫 How to reach me - smshruthi06@gmail.com , https://www.linkedin.com/in/shruthi-shikaripur-giddappa-877b5480/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Japanese language enthusiast,Blogger(https://flourisshivamogga.blogspot.comv)
+- ⚡ Fun fact: Japanese language enthusiast,Blogger(https://flourisshivamogga.blogspot.com)
 
 ********************** Where exuberance meets abundance, magic happens*********************
 
